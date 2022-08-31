@@ -542,7 +542,7 @@ section{
 header .navbar{
     position: absolute;
     top:100%; left: 0; right:0;
-    background: #f7f7f7;
+    background:#FDD535;
     border-top: .1rem solid rgba(0,0,0,.1);
     clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
 }
@@ -557,7 +557,7 @@ header .navbar a{
     display: block;
     border:.2rem solid rgba(0,0,0,.1);
     border-left:.5rem solid var(--red);
-    background:#FDD535;
+    background:#f7f7f7;
 }
 
 }
