@@ -556,8 +556,8 @@ header .navbar a{
     padding:1.5rem;
     display: block;
     border:.2rem solid rgba(0,0,0,.1);
-    border-left:.5rem solid var(--red);
-    background:#FDD535;
+    border-left:.5rem solid #FDD535;
+    background:#fff;
 }
 
 }
