@@ -545,6 +545,8 @@ header .navbar{
     background:#000;
     border-top: .1rem solid #FDD535;
     clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+     background:#000;
+
 }
 
 header .navbar.active{
