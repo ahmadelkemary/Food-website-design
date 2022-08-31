@@ -542,8 +542,8 @@ section{
 header .navbar{
     position: absolute;
     top:100%; left: 0; right:0;
-    background:#000;
-    border-top: .1rem solid rgba(0,0,0,.1);
+    background:#FFF;
+    border-top: .1rem solid #FFF;
     clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
 }
 
