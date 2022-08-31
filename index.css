@@ -555,9 +555,9 @@ header .navbar a{
     margin: 1.5rem;
     padding:1.5rem;
     display: block;
-    border:.2rem solid rgba(0,0,0,.1);
+    border:.2rem solid #FDD535;
     border-left:.5rem solid #FDD535;
-    background:#fff;
+    background:#000;
 }
 
 }
